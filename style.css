@@ -1,5 +1,5 @@
 body {
-    background-color: var(--bg);
+    background-color: var(--bg); /*Sets the background color using the custom variable --bg*/
     height: 100vh;
 }
 .login {
